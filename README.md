@@ -103,6 +103,7 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 - [Weather API example](https://github.com/AnthonyBloomer/weather-api)
 - [Twitter API example](https://github.com/ryanmcgrath/twython)
 - [Awesome Python](https://github.com/vinta/awesome-python)
+- [GPIO library](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
 
 ##### Électronique
 - [TOF wiki](http://wiki.t-o-f.info/EDM4640/EDM4640)
