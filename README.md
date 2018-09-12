@@ -64,8 +64,8 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 
   - ##### Python2 vs Python3
   - ##### Hello, world! dans le Terminal
-  ```python``` <br>
-  ```print("Hello, World!")```
+    ```python``` <br>
+    ```print("Hello, World!")```
 
   - ##### Hello, world! comme premier script
      ```nano premierScript.py```<br>
