@@ -73,23 +73,29 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
      ```python premierScript.py```<br>
 
   - ##### PyPI et pip
-    *Repository* pour les packages Python tiers open-source.<br>
+*Repository* pour les packages Python tiers open-source.<br>
      ```sudo apt-get install python-pip```<br>
      ```pip install <package_name>```<br>
      ```pip uninstall <package_name>```<br>
 
   - ##### IDE RPI
 
+  - ##### Connectivité
+    - [Par UDP](https://pypi.org/project/python-osc/)
+    - [Par TCP](https://docs.python.org/3/howto/urllib2.html)
+    - [Par Serial](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
+
 ### Électronique
-  - GPIO
-    - http://www.pingo.io/docs/
+- GPIO
+    - [Introduction](https://learn.sparkfun.com/tutorials/raspberry-gpio/introduction)
+
   - Branchement senseurs/actuateurs
 
 ### Node-RED, Processing et Pure Data
   - GPIO
- - [Processing library](https://processing.org/reference/libraries/io/GPIO.html)
- - [Pure Data example patcher](https://forum.pdpatchrepo.info/topic/9997/gpio-raspberry-p3-and-pure-data/2)
- - [Node-RED tutorial](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/7)
+    - [Processing library](https://processing.org/reference/libraries/io/GPIO.html)
+    - [Pure Data example patcher](https://forum.pdpatchrepo.info/topic/9997/gpio-raspberry-p3-and-pure-data/2)
+    - [Node-RED tutorial](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/7)<br><br>
   - Communication OSC
     - [En Pure Data](http://write.flossmanuals.net/pure-data/send-and-receive/)
     - [Example avec Processing](https://medium.com/bytes-of-bits/max-facts-using-osc-to-route-max-into-processing-7635b1dba154)
@@ -104,6 +110,7 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [SparkFun video tutorial](https://www.youtube.com/watch?v=b6h95jNWg1g)
 
 ##### Bash et GNU/Linux
 - [Codecademy Bash course](https://www.codecademy.com/learn/learn-the-command-line)
