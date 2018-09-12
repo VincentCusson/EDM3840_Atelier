@@ -73,10 +73,10 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
      ```python premierScript.py```<br>
 
   - ##### PyPI et pip
-    *Repository* pour les packages Python tiers open-source.
-    - ```sudo apt-get install python-pip```
-    - ```pip install <package_name>```
-    - ```pip uninstall <package_name>```
+    *Repository* pour les packages Python tiers open-source.<br>
+     ```sudo apt-get install python-pip```<br>
+     ```pip install <package_name>```<br>
+     ```pip uninstall <package_name>```<br>
 
   - ##### IDE RPI
 
