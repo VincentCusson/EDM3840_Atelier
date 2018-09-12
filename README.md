@@ -85,8 +85,13 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
     - http://www.pingo.io/docs/
   - Branchement senseurs/actuateurs
 
-### Processing et Pure Data
+### Node-RED, Processing et Pure Data
+  - GPIO
  - [Processing library](https://processing.org/reference/libraries/io/GPIO.html)
+ - [Pure Data example patcher](https://forum.pdpatchrepo.info/topic/9997/gpio-raspberry-p3-and-pure-data/2)
+ - [Node-RED tutorial](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/7)
+  - Communication OSC
+    - [En Pure Data](http://write.flossmanuals.net/pure-data/send-and-receive/)
 
 ### Ressources
 
@@ -98,8 +103,11 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
+##### Bash et GNU/Linux
+- [Codecademy Bash course](https://www.codecademy.com/learn/learn-the-command-line)
+
 ##### Python
-- [Codecademy](https://www.codecademy.com/learn/learn-python)
+- [Codecademy Python course](https://www.codecademy.com/learn/learn-python)
 - [Weather API example](https://github.com/AnthonyBloomer/weather-api)
 - [Twitter API example](https://github.com/ryanmcgrath/twython)
 - [Awesome Python](https://github.com/vinta/awesome-python)
