@@ -38,47 +38,47 @@ ___
 
 
 ### Introduction à GNU/Linux
-  - ###### OS
-  - ###### Terminal vs GUI
-  - ###### Package manager
-  Outil(s) automatisant le processus d'installation, désinstallation, mise à jour de logiciels installés sur un système informatique.
+  - ##### OS
+  - ##### Terminal vs GUI
+  - ##### Package manager
+    Outil(s) automatisant le processus d'installation, désinstallation, mise à jour de logiciels installés sur un système informatique.
 
-     - Terminal -  [APT](https://help.ubuntu.com/community/AptGet/Howto)
-     <br><br>
-    -  ```sudo apt-get update```
-    -  ```sudo apt-get upgrade```
-    -  ```sudo apt-cache search <search_term>```
-    -  ```sudo apt-get install <package_name>```
-    -  ```sudo apt-get remove <package_name>```
-    <br><br>
-     - GUI - [Synaptic](https://help.ubuntu.com/community/SynapticHowto)
+    - Terminal - [APT](https://help.ubuntu.com/community/AptGet/Howto)
+
+      ```sudo apt-get update```<br>
+      ```sudo apt-get upgrade```<br>
+      ```sudo apt-cache search <search_term>```<br>
+      ```sudo apt-get install <package_name>```<br>
+      ```sudo apt-get remove <package_name>```<br>
+
+    - GUI - [Synaptic](https://help.ubuntu.com/community/SynapticHowto)
 
 
 
-  - ###### Editeur de texte
-  - ###### Configuration
+  - ##### Editeur de texte
+  - ##### Configuration
     - Réseau
 https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 
 ### Python
 
-  - ###### Python2 vs Python3
-  - ###### Hello, world! dans le Terminal
+  - ##### Python2 vs Python3
+  - ##### Hello, world! dans le Terminal
   ```python``` <br>
   ```print("Hello, World!")```
 
-  - ###### Hello, world! comme premier script
+  - ##### Hello, world! comme premier script
      ```nano premierScript.py```<br>
      ```print("Hello, World!")```<br>
      ```python premierScript.py```<br>
 
-  - ###### PyPI et pip
+  - ##### PyPI et pip
     *Repository* pour les packages Python tiers open-source.
     - ```sudo apt-get install python-pip```
     - ```pip install <package_name>```
     - ```pip uninstall <package_name>```
 
-  - ###### IDE RPI
+  - ##### IDE RPI
 
 ### Électronique
   - GPIO
@@ -90,7 +90,7 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 
 ### Ressources
 
-###### Raspberry PI
+##### Raspberry PI
 - [Site officiel](https://www.raspberrypi.org/)
 - [Forum officiel](https://www.raspberrypi.org/forums/)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
@@ -98,12 +98,12 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
-###### Python
+##### Python
 - [Codecademy](https://www.codecademy.com/learn/learn-python)
 - [Weather API example](https://github.com/AnthonyBloomer/weather-api)
 - [Twitter API example](https://github.com/ryanmcgrath/twython)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 
-###### Électronique
+##### Électronique
 - [TOF wiki](http://wiki.t-o-f.info/EDM4640/EDM4640)
 - [Fritzing](http://fritzing.org/home/)
