@@ -92,6 +92,8 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
  - [Node-RED tutorial](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/7)
   - Communication OSC
     - [En Pure Data](http://write.flossmanuals.net/pure-data/send-and-receive/)
+    - [Example avec Processing](https://medium.com/bytes-of-bits/max-facts-using-osc-to-route-max-into-processing-7635b1dba154)
+    - [Package pour Node-RED](https://www.npmjs.com/package/node-red-contrib-osc)
 
 ### Ressources
 
