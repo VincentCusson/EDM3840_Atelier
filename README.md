@@ -56,6 +56,9 @@ ___
 
 
   - ##### Editeur de texte
+    - [Leafpad](http://tarot.freeshell.org/leafpad/)
+    - [Nano](https://www.nano-editor.org/dist/v3/nano.1.html)
+    - [Vim](https://www.vim.org/docs.php)
   - ##### Configuration
     - Réseau
 https://projects.raspberrypi.org/en/projects/raspberry-pi-using/10
